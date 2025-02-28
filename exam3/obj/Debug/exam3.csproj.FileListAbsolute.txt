@@ -1,0 +1,7 @@
+C:\Users\Ashitoshabhi\OneDrive\Desktop\Capgemini\Exams\exam3\bin\Debug\exam3.exe.config
+C:\Users\Ashitoshabhi\OneDrive\Desktop\Capgemini\Exams\exam3\bin\Debug\exam3.exe
+C:\Users\Ashitoshabhi\OneDrive\Desktop\Capgemini\Exams\exam3\bin\Debug\exam3.pdb
+C:\Users\Ashitoshabhi\OneDrive\Desktop\Capgemini\Exams\exam3\obj\Debug\exam3.csproj.AssemblyReference.cache
+C:\Users\Ashitoshabhi\OneDrive\Desktop\Capgemini\Exams\exam3\obj\Debug\exam3.csproj.CoreCompileInputs.cache
+C:\Users\Ashitoshabhi\OneDrive\Desktop\Capgemini\Exams\exam3\obj\Debug\exam3.exe
+C:\Users\Ashitoshabhi\OneDrive\Desktop\Capgemini\Exams\exam3\obj\Debug\exam3.pdb

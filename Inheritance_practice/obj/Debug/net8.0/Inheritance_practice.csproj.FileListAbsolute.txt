@@ -1,0 +1,15 @@
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Inheritance_practice\bin\Debug\net8.0\Inheritance_practice.exe
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Inheritance_practice\bin\Debug\net8.0\Inheritance_practice.deps.json
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Inheritance_practice\bin\Debug\net8.0\Inheritance_practice.runtimeconfig.json
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Inheritance_practice\bin\Debug\net8.0\Inheritance_practice.dll
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Inheritance_practice\bin\Debug\net8.0\Inheritance_practice.pdb
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Inheritance_practice\obj\Debug\net8.0\Inheritance_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Inheritance_practice\obj\Debug\net8.0\Inheritance_practice.AssemblyInfoInputs.cache
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Inheritance_practice\obj\Debug\net8.0\Inheritance_practice.AssemblyInfo.cs
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Inheritance_practice\obj\Debug\net8.0\Inheritance_practice.csproj.CoreCompileInputs.cache
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Inheritance_practice\obj\Debug\net8.0\Inheritance_practice.sourcelink.json
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Inheritance_practice\obj\Debug\net8.0\Inheritance_practice.dll
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Inheritance_practice\obj\Debug\net8.0\refint\Inheritance_practice.dll
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Inheritance_practice\obj\Debug\net8.0\Inheritance_practice.pdb
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Inheritance_practice\obj\Debug\net8.0\Inheritance_practice.genruntimeconfig.cache
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Inheritance_practice\obj\Debug\net8.0\ref\Inheritance_practice.dll

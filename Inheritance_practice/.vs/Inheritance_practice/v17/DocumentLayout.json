@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ashitoshabhi\\OneDrive\\Desktop\\exam\\Inheritance_practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1414F369-3C6E-4428-8CB9-A34793FB19D2}|Inheritance_practice.csproj|c:\\users\\ashitoshabhi\\onedrive\\desktop\\exam\\inheritance_practice\\8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1414F369-3C6E-4428-8CB9-A34793FB19D2}|Inheritance_practice.csproj|solutionrelative:8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1414F369-3C6E-4428-8CB9-A34793FB19D2}|Inheritance_practice.csproj|c:\\users\\ashitoshabhi\\onedrive\\desktop\\exam\\inheritance_practice\\9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1414F369-3C6E-4428-8CB9-A34793FB19D2}|Inheritance_practice.csproj|solutionrelative:9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1414F369-3C6E-4428-8CB9-A34793FB19D2}|Inheritance_practice.csproj|c:\\users\\ashitoshabhi\\onedrive\\desktop\\exam\\inheritance_practice\\10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1414F369-3C6E-4428-8CB9-A34793FB19D2}|Inheritance_practice.csproj|solutionrelative:10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1414F369-3C6E-4428-8CB9-A34793FB19D2}|Inheritance_practice.csproj|c:\\users\\ashitoshabhi\\onedrive\\desktop\\exam\\inheritance_practice\\7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1414F369-3C6E-4428-8CB9-A34793FB19D2}|Inheritance_practice.csproj|solutionrelative:7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1414F369-3C6E-4428-8CB9-A34793FB19D2}|Inheritance_practice.csproj|c:\\users\\ashitoshabhi\\onedrive\\desktop\\exam\\inheritance_practice\\6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1414F369-3C6E-4428-8CB9-A34793FB19D2}|Inheritance_practice.csproj|solutionrelative:6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1414F369-3C6E-4428-8CB9-A34793FB19D2}|Inheritance_practice.csproj|c:\\users\\ashitoshabhi\\onedrive\\desktop\\exam\\inheritance_practice\\5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1414F369-3C6E-4428-8CB9-A34793FB19D2}|Inheritance_practice.csproj|solutionrelative:5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1414F369-3C6E-4428-8CB9-A34793FB19D2}|Inheritance_practice.csproj|c:\\users\\ashitoshabhi\\onedrive\\desktop\\exam\\inheritance_practice\\4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1414F369-3C6E-4428-8CB9-A34793FB19D2}|Inheritance_practice.csproj|solutionrelative:4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1414F369-3C6E-4428-8CB9-A34793FB19D2}|Inheritance_practice.csproj|c:\\users\\ashitoshabhi\\onedrive\\desktop\\exam\\inheritance_practice\\3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1414F369-3C6E-4428-8CB9-A34793FB19D2}|Inheritance_practice.csproj|solutionrelative:3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1414F369-3C6E-4428-8CB9-A34793FB19D2}|Inheritance_practice.csproj|c:\\users\\ashitoshabhi\\onedrive\\desktop\\exam\\inheritance_practice\\2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1414F369-3C6E-4428-8CB9-A34793FB19D2}|Inheritance_practice.csproj|solutionrelative:2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1414F369-3C6E-4428-8CB9-A34793FB19D2}|Inheritance_practice.csproj|c:\\users\\ashitoshabhi\\onedrive\\desktop\\exam\\inheritance_practice\\1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1414F369-3C6E-4428-8CB9-A34793FB19D2}|Inheritance_practice.csproj|solutionrelative:1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "10.cs",
+              "DocumentMoniker": "C:\\Users\\Ashitoshabhi\\OneDrive\\Desktop\\exam\\Inheritance_practice\\10.cs",
+              "RelativeDocumentMoniker": "10.cs",
+              "ToolTip": "C:\\Users\\Ashitoshabhi\\OneDrive\\Desktop\\exam\\Inheritance_practice\\10.cs",
+              "RelativeToolTip": "10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:14:37.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "9.cs",
+              "DocumentMoniker": "C:\\Users\\Ashitoshabhi\\OneDrive\\Desktop\\exam\\Inheritance_practice\\9.cs",
+              "RelativeDocumentMoniker": "9.cs",
+              "ToolTip": "C:\\Users\\Ashitoshabhi\\OneDrive\\Desktop\\exam\\Inheritance_practice\\9.cs",
+              "RelativeToolTip": "9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:13:23.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "8.cs",
+              "DocumentMoniker": "C:\\Users\\Ashitoshabhi\\OneDrive\\Desktop\\exam\\Inheritance_practice\\8.cs",
+              "RelativeDocumentMoniker": "8.cs",
+              "ToolTip": "C:\\Users\\Ashitoshabhi\\OneDrive\\Desktop\\exam\\Inheritance_practice\\8.cs",
+              "RelativeToolTip": "8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:12:21.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "7.cs",
+              "DocumentMoniker": "C:\\Users\\Ashitoshabhi\\OneDrive\\Desktop\\exam\\Inheritance_practice\\7.cs",
+              "RelativeDocumentMoniker": "7.cs",
+              "ToolTip": "C:\\Users\\Ashitoshabhi\\OneDrive\\Desktop\\exam\\Inheritance_practice\\7.cs",
+              "RelativeToolTip": "7.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:11:49.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "6.cs",
+              "DocumentMoniker": "C:\\Users\\Ashitoshabhi\\OneDrive\\Desktop\\exam\\Inheritance_practice\\6.cs",
+              "RelativeDocumentMoniker": "6.cs",
+              "ToolTip": "C:\\Users\\Ashitoshabhi\\OneDrive\\Desktop\\exam\\Inheritance_practice\\6.cs",
+              "RelativeToolTip": "6.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:10:56.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "5.cs",
+              "DocumentMoniker": "C:\\Users\\Ashitoshabhi\\OneDrive\\Desktop\\exam\\Inheritance_practice\\5.cs",
+              "RelativeDocumentMoniker": "5.cs",
+              "ToolTip": "C:\\Users\\Ashitoshabhi\\OneDrive\\Desktop\\exam\\Inheritance_practice\\5.cs",
+              "RelativeToolTip": "5.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:10:21.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "4.cs",
+              "DocumentMoniker": "C:\\Users\\Ashitoshabhi\\OneDrive\\Desktop\\exam\\Inheritance_practice\\4.cs",
+              "RelativeDocumentMoniker": "4.cs",
+              "ToolTip": "C:\\Users\\Ashitoshabhi\\OneDrive\\Desktop\\exam\\Inheritance_practice\\4.cs",
+              "RelativeToolTip": "4.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:09:31.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "3.cs",
+              "DocumentMoniker": "C:\\Users\\Ashitoshabhi\\OneDrive\\Desktop\\exam\\Inheritance_practice\\3.cs",
+              "RelativeDocumentMoniker": "3.cs",
+              "ToolTip": "C:\\Users\\Ashitoshabhi\\OneDrive\\Desktop\\exam\\Inheritance_practice\\3.cs",
+              "RelativeToolTip": "3.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:08:32.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "2.cs",
+              "DocumentMoniker": "C:\\Users\\Ashitoshabhi\\OneDrive\\Desktop\\exam\\Inheritance_practice\\2.cs",
+              "RelativeDocumentMoniker": "2.cs",
+              "ToolTip": "C:\\Users\\Ashitoshabhi\\OneDrive\\Desktop\\exam\\Inheritance_practice\\2.cs",
+              "RelativeToolTip": "2.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:58:12.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "1.cs",
+              "DocumentMoniker": "C:\\Users\\Ashitoshabhi\\OneDrive\\Desktop\\exam\\Inheritance_practice\\1.cs",
+              "RelativeDocumentMoniker": "1.cs",
+              "ToolTip": "C:\\Users\\Ashitoshabhi\\OneDrive\\Desktop\\exam\\Inheritance_practice\\1.cs",
+              "RelativeToolTip": "1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:39:32.524Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

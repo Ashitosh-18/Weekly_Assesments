@@ -1,0 +1,15 @@
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Polymorphism_practice\bin\Debug\net8.0\Polymorphism_practice.exe
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Polymorphism_practice\bin\Debug\net8.0\Polymorphism_practice.deps.json
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Polymorphism_practice\bin\Debug\net8.0\Polymorphism_practice.runtimeconfig.json
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Polymorphism_practice\bin\Debug\net8.0\Polymorphism_practice.dll
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Polymorphism_practice\bin\Debug\net8.0\Polymorphism_practice.pdb
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Polymorphism_practice\obj\Debug\net8.0\Polymorphism_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Polymorphism_practice\obj\Debug\net8.0\Polymorphism_practice.AssemblyInfoInputs.cache
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Polymorphism_practice\obj\Debug\net8.0\Polymorphism_practice.AssemblyInfo.cs
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Polymorphism_practice\obj\Debug\net8.0\Polymorphism_practice.csproj.CoreCompileInputs.cache
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Polymorphism_practice\obj\Debug\net8.0\Polymorphism_practice.sourcelink.json
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Polymorphism_practice\obj\Debug\net8.0\Polymorphism_practice.dll
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Polymorphism_practice\obj\Debug\net8.0\refint\Polymorphism_practice.dll
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Polymorphism_practice\obj\Debug\net8.0\Polymorphism_practice.pdb
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Polymorphism_practice\obj\Debug\net8.0\Polymorphism_practice.genruntimeconfig.cache
+C:\Users\Ashitoshabhi\OneDrive\Desktop\exam\Polymorphism_practice\obj\Debug\net8.0\ref\Polymorphism_practice.dll
